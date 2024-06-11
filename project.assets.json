@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/harinduadhikari/Documents/C# program/HeloWorld with methods/HeloWorld1/HeloWorld1.csproj",
-      "projectName": "HeloWorld1",
-      "projectPath": "/Users/harinduadhikari/Documents/C# program/HeloWorld with methods/HeloWorld1/HeloWorld1.csproj",
+      "projectUniqueName": "/Users/harinduadhikari/Documents/C# program/HelloWorld/HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "/Users/harinduadhikari/Documents/C# program/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/harinduadhikari/.nuget/packages/",
-      "outputPath": "/Users/harinduadhikari/Documents/C# program/HeloWorld with methods/HeloWorld1/obj/",
+      "outputPath": "/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/harinduadhikari/.nuget/NuGet/NuGet.Config"
